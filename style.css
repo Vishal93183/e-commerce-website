@@ -1,0 +1,237 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: rgba(25, 26, 25, 0.712);
+    height: 86px;
+    
+}
+.red img{
+    margin-top: 17px;
+    width: 84px;
+    height: 53px;
+    
+}
+.red{
+    float: left;
+    margin-left: 25px;
+}
+ul{
+    
+    float: right;
+   font-size: 25px;
+    padding: 29px 183px;
+}
+nav  ul li:hover{
+    color: rgb(225, 225, 233);
+}
+
+.search  {
+   float: left;
+    margin-top: 25px;
+    margin-left: 458px;
+   
+    
+}
+.search input{
+    width: 493px;
+    height: 34px;
+    border-radius:20px ;
+    font-size: 13px;
+  padding: 0 0 0px 20px;
+}
+
+
+.btn{
+    margin-left: 11px;
+  padding: 3px;
+  border-radius: 8px;
+}
+
+nav ul li{
+    display: inline;
+    margin-left: 10px;
+   
+    
+}
+nav ul{
+    position:relative;
+    right: auto;
+    
+}
+.A1 img{
+    display: block;
+    margin: auto;
+    width: 1900px;
+    height: 600px;
+    margin-top: 13px;
+
+}
+.one h1{
+    font-size: 100px;
+    position: absolute;
+    top: 256px;
+    left: 289px;
+}
+.one p {
+    color: aliceblue;
+    font-size: 26px;
+    position: absolute;
+    top: 390px;
+    left: 289px;
+}
+.Join {
+    color: aliceblue;
+    font-size: 16px;
+    position: absolute;
+    top: 424px;
+    left: 289px;
+    padding: 1px 19px;
+    color: black;
+}
+.A2 img{
+    display: block;
+    margin: auto;
+}
+ .card h2{
+    font-size: 58px;
+    margin-left: 90px;
+    
+ }
+.card-item {
+    margin-top: 36px;
+    float: left;
+    margin-left: 90px;
+    
+}
+  
+.card-item1  {
+    margin-top: 25px;
+    float: left;
+    margin-left: 104px;
+   
+    
+}
+.card-item2{
+    margin-top: 35px;
+    float: left;
+    margin-left: 90px;
+    
+}
+
+.A3 img {
+    width: 1918px;
+  height: 414px;
+  margin-top: 25px;
+}
+.two h1{
+    color: rgb(4, 4, 4);
+    
+    position: relative;
+    top: -387px;
+    text-align: center;
+    font-size: 57px;
+  
+}
+.two p{
+    position: relative;
+    top: -337px;
+    text-align: center;
+    font-size: 25px;
+}
+.card2{
+    margin-top: 46px;
+}
+.A4{
+    margin-top: -155px;
+    margin-left: 170px;
+    width: 450px;
+    float: left;
+}
+.A4 h1{
+    margin-left: 50px;
+}
+.A5{
+    margin-left: 121px;
+    margin-top: -155px;
+    float: left;
+}
+.A5 h1{
+    margin-left: 26px;
+
+}
+.A6{
+    margin-top: -155px;
+    margin-left: 193px;
+    float: left;
+
+}
+.A6 h1{
+    margin-left: 54px;
+
+}
+/* .A7{
+    
+    margin-left: 53px;
+  margin-top: -154px;
+} */
+footer{
+    height: 100px;
+    margin-top: 238px;
+    padding: 79px;
+    background-color: black;
+    
+  }
+  .v img {
+    width: 150px;
+  }
+  .v{
+    display: inline;
+    float: left;
+    margin-top: 50px;
+    margin-top: -34px;
+    margin-left: 94px;
+}
+  
+
+  .B1{
+    float: left;
+    margin-left: 304px;
+  margin-top: -30px;
+  margin-right: 97px;
+  }
+
+  .B2{
+    float: left;
+    margin-right: 81px;
+  margin-top: -13px;
+  }
+  .B3{
+    float: left;
+    margin: -10px 39px;
+    margin-top: -10px;
+  margin-top: -33px;
+  }
+  .B3 h3{
+    color: aliceblue;
+    text-align: center;
+  }
+
+footer p{
+    color: aliceblue;
+    text-align: center;
+
+
+}
+.B5{
+    float: left;
+    clear: both;
+  margin-top: 46px;
+  margin-left: 108px;
+  font-size: 29px;
+
+}
+.B5 hr{
+    width: 1500px;
+}
